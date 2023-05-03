@@ -10,7 +10,7 @@ that were joined up to make a larger kitchen.
 
 ![](images/2020.png)
 
-We put a splash of paint on and some minor upgrades to make it 
+In December 2020 put a splash of paint on and some minor upgrades to make it 
 useable while we figured out what we really wanted. 
 
 ![](images/start.png)
@@ -45,7 +45,10 @@ Installed underfloor heating and some large format limestone tiles
 
 ## Finished product
 
-After a few months of hard work the kitchen is nearly finished.
+
+As much as I wanted to make all of the cabinets from scratch we ended up buying 
+the base cabinets in which made the project achievable with few months of hard 
+work the kitchen is nearly finished.
 
 ![](images/finished-1.png)
 ![](images/finished-2.png)
