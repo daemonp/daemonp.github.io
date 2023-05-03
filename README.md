@@ -49,3 +49,9 @@ After a few months of hard work the kitchen is nearly finished.
 ![](images/finished-4.png)
 ![](images/finished-5.png)
 ![](images/finished-6.png)
+
+## Dog Tax
+
+Even the dog got a new house under the stairs
+
+![](images/dog.png)
