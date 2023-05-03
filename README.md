@@ -1,9 +1,13 @@
 # Kitchen Renovation
 
+Sorry, this is going to take a minute to load...
+
 ## Original Kitchen
 
 When we moved in to the house in 2020 we knew we wanted to make 
-some changes to the kitchen.
+some changes to the kitchen. It was clearly two rooms at one point 
+that were joined up to make a larger kitchen.
+
 ![](images/2020.png)
 
 We put a splash of paint on and some minor upgrades to make it 
