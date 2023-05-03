@@ -1,18 +1,51 @@
-![info](images/finished-1.png)
-![info](images/finished-2.png)
-![info](images/finished-3.png)
-![info](images/finished-4.png)
-![info](images/finished-5.png)
-![info](images/finished-6.png)
-![info](images/slabs.png)
-![info](images/stripped-1.png)
-![info](images/stripped-2.png)
-![info](images/table-flat.png)
-![info](images/table-jig.png)
-![info](images/table-profile.png)
-![info](images/table-resin.png)
-![info](images/table-sanding.png)
-![info](images/table-slabs.png)
-![info](images/tile.png)
-![info](images/tile-prep.png)
-![info](images/underfloor-heating.png)
+# Kitchen Renovation
+
+## Original Kitchen
+
+When we moved in to the house in 2020 we knew we wanted to make 
+some changes to the kitchen.
+![](images/2020.png)
+
+We put a splash of paint on and some minor upgrades to make it 
+useable while we figured out what we really wanted. 
+
+![](images/start.png)
+
+## kitchen peninsula
+
+Jan 2023 I found some amazing slabs of oak to make a kitchen 
+worktop out of which set this all in motion.
+
+![](images/slabs.png)
+![](images/table-slabs.png)
+![](images/table-resin.png)
+![](images/table-jig.png)
+![](images/table-sanding.png)
+![](images/table-profile.png)
+![](images/table-flat.png)
+
+## demo 
+
+We stripped back to bare floor and studs
+
+![](images/stripped-1.png)
+![](images/stripped-2.png)
+
+## flooring
+
+Installed underfloor heating and some large format limestone tiles
+
+![](images/underfloor-heating.png)
+![](images/tile-prep.png)
+![](images/tile.png)
+
+## Finished product
+
+After a few months of hard work the kitchen is nearly finished.
+
+![](images/finished-1.png)
+![](images/finished-2.png)
+![](images/finished-3.png)
+![](images/finished-4.png)
+![](images/finished-5.png)
+![](images/finished-6.png)
