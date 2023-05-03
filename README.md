@@ -24,9 +24,9 @@ worktop out of which set this all in motion.
 ![](images/table-slabs.png)
 ![](images/table-resin.png)
 ![](images/table-jig.png)
+![](images/table-flat.png)
 ![](images/table-sanding.png)
 ![](images/table-profile.png)
-![](images/table-flat.png)
 
 ## demo 
 
